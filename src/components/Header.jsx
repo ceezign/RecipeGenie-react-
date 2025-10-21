@@ -5,7 +5,7 @@ export default function Header(){
         <>
         <header>
             <img src="images/chef-claude-icon.png" alt="chef claude image" />
-            <h1>Chef Jiggy</h1>
+            <h1> Recipe Genie</h1>
         </header>
 
         </>
